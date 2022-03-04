@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/poi-ooxml-3.9.jar/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/apache-poi-1.0.2.15-jre13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/commons-codec-1.0.2.15-jre13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/commons-collections4-1.0.2.15-jre13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/commons-logging-1.0.2.15-jre13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/commons-math3-1.0.2.15-jre13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/jakarta.activation-1.0.2.15-jre13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/jakarta.validation-api-1.0.2.15-jre13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/jakarta.xml.bind-api-1.0.2.15-jre13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/javax.activation-1.0.2.15-jre13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/stax2-api-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jar_files/stax-ex-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/poi-ooxml-schemas-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/jxl-2.6.12.jar/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/I536070/Downloads/gson-2.2.2.jar/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
